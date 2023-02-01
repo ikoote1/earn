@@ -13,8 +13,6 @@
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
@@ -28,7 +26,6 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
@@ -88,39 +85,21 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-<!--
-Command:
-
-```sh
- gem install rails
-```
- -->
+>To Clone this (https://github.com/ikoote1/Portfolio-Setup.git) repository to your desired folder:
 
 ### Setup
 
-Clone this (https://github.com/ikoote1/Portfolio-Setup.git) repository to your desired folder:
+>Clone this (https://github.com/ikoote1/Portfolio-Setup.git) repository to your desired folder:
 
-<!--
-Commands:
 
-```sh
-  cd my-folder
   git clone git@github.com/ikoote1/Portfolio-Setup.git
-```
---->
+
 
 ### Install
 
 Install this project with:
 
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
+-Link (href="https://ikoote1.github.io/Portfolio-Setup/)
 
 ### Usage
 
